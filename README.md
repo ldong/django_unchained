@@ -1,2 +1,3 @@
-1. Must install Django
-2. Must insall sqlite3
+1. Prerequisites:  Django sqlite3
+2. Django uses relationship database, and combile necessary query commands.
+
